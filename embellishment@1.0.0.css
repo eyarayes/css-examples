@@ -1,0 +1,294 @@
+/*
+  --embellishment Css
+  --version 1.0.0
+  --web https://embellishment.000webhostapp.com/
+*/
+@charset "UTF-8"; body{margin: 8px; font-family: sans-serif;font-size: 15px;}
+/*social media*/
+.facebook{color: #fff;border: none;background-color: #3b5998;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.facebook:hover{outline: 4px solid #a4b7e0b6;}
+.instagram{color: #fff;border: none;background-image:linear-gradient(to bottom right, rgb(17, 119, 252), rgb(252, 72, 17));transition: all .3s ease-in-out;width: 80px;height: 25px;border-radius: 3px;}
+.instagram:hover{outline: 4px solid rgba(240, 193, 209, 0.87);}
+.whatsapp{color: #fff;border: none;background-color: rgb(21, 228, 21);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.whatsapp:hover{outline: 4px solid rgba(68, 207, 68, 0.753);}
+.reddit{color: #fff;border: none;background-color: rgba(252, 55, 55, 0.925);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.reddit:hover{outline: 4px solid rgba(187, 70, 70, 0.774);}
+.linkedin{color: #fff;border: none;background-color: #005983;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.linkedin:hover{outline: 4px solid #1a749ed8;}
+.vimeo{color: #fff;border: none;background-color: #1ab7ea;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.vimeo:hover{outline: 4px solid rgba(65, 174, 224, 0.76)}
+.vk{color: #fff;border: none;background-color: rgba(40, 40, 252, 0.87);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.vk:hover{outline: 4px solid rgba(118, 118, 219, 0.87)}
+.yahoo{color: #fff;border: none;background-color: #720e9e;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.yahoo:hover{outline: 4px solid #a460c2}
+.betbucket{color: #fff;border: none;background-color: #205081;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.betbucket:hover{outline: 4px solid #97bce0}
+.dropbox{color: #fff;border: none;background-color: #2962ff;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.dropbox:hover{outline: 4px solid rgb(197, 211, 224)}
+.flickr{color: #fff;border: none;background-color: #cc006a;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.flickr:hover{outline: 4px solid #da94b8}
+.foursquare{color: #fff;border: none;background-color: #222;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.foursquare:hover{outline: 4px solid rgb(102, 101, 101)}
+.google{color: #fff;border: none;background-color: #dd4b39;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.google:hover{outline: 4px solid rgb(241, 133, 133)}
+.github{color: #fff;border: none;background-color: #444;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.github:hover{outline: 4px solid #888}
+.microsoft{color: #fff;border: none;background-color: #124acd;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.microsoft:hover{outline: 4px solid #5f8bf1}
+.odonklassniki{color: #fff;border: none;background-color: #f4731c;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.odonklassniki:hover{outline: 4px solid #f3a977}
+.openid{color: #fff;border: none;background-color: #f7931e;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.openid:hover{outline: 4px solid #fcc17f}
+.pinterest{color: #fff;border: none;background-color: #9f191f;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.pinterest:hover{outline: 4px solid #ec686f}
+.soundcloud{color: #fff;border: none;background-color: #111;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.soundcloud:hover{outline: 4px solid rgb(110, 105, 105)}
+.tumblr{color: #fff;border: none;background-color: #2c4762;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.tumblr:hover{outline: 4px solid #556f88}
+.twitter{color: #fff;border: none;background-color: #55acee;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.twitter:hover{outline: 4px solid #c1dff7}
+.telegram{color: #fff;border: none;background-color: #168fec;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.telegram:hover{outline: 4px solid #7cbcee}
+.signal{color: #fff;border: none;background-color: #1049cf;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.signal:hover{outline: 4px solid #9ab6f8}
+.youtube{color: #fff;border: none;background-color: #cc0000;width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.youtube:hover{outline: 4px solid #f37b7b}
+.omegle{color: #fff;border: none;background-color:rgb(0, 96, 221);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.omegle:hover{outline: 4px solid rgb(236, 179, 72)}
+.itop{color: #fff;border: none;background-image: linear-gradient(to bottom, rgb(89, 161, 255), rgb(11, 66, 138));width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.itop:hover{outline: 4px solid rgb(123, 152, 233)}
+.spotify{color: #fff;border: none;background-color: rgb(26, 206, 26);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.spotify:hover{outline: 4px solid rgb(174, 248, 174)}
+.snapchat{color: #000;border: none;background-color: rgb(236, 236, 40);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.snapchat:hover{outline: 4px solid rgb(248, 248, 137)}
+.messanger{color: #fff;border: none; background-image: linear-gradient(to bottom,rgb(216, 29, 29),rgb(228, 84, 132),rgb(177, 30, 177),rgb(31, 58, 206));width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.messanger:hover{outline: 4px solid #ccc}
+.devianart{color: #fff;border: none; background-color: rgb(0, 201, 100);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.devianart:hover{outline: 4px solid #ccc}
+.skype{color: #fff;border: none; background-color: rgb(1, 148, 185);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.skype:hover{outline: 4px solid rgb(153, 224, 241)}
+.gmail{color: #fff;border: none; background-color: rgb(255, 55, 55);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.gmail:hover{outline: 4px solid rgb(243, 142, 142)}
+.discord{color: #fff;border: none; background-color: rgb(55, 67, 245);width: 80px;height: 25px;transition: all .3s ease-in-out;border-radius: 3px;}
+.discord:hover{outline: 4px solid rgb(150, 156, 245)}
+
+/*buttons*/
+.primary-button{transition: all .3s ease-in-out; color: #fff; background-color: #2185d0;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.primary-button:hover{background-color: #fff;color: #000;outline: 3px solid #2185d0;}
+.secondary-button{transition: all .3s ease-in-out; color: #fff; background-color: #1b1c1d;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.secondary-button:hover{background-color: #fff;color: #000;outline: 3px solid #1b1c1d;}
+.positive-button{transition: all .3s ease-in-out; color: #fff; background-color: #21ba45;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.positive-button:hover{background-color: #fff;color: #000;outline: 3px solid #21ba45;}
+.negative-button{transition: all .3s ease-in-out; color: #fff; background-color: #eb3636;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.negative-button:hover{background-color: #fff;color: #000;outline: 3px solid #eb3636;}
+.warning-button{transition: all .3s ease-in-out; color: #fff; background-color: #ffc107;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.warning-button:hover{background-color: #fff;color: #000;outline: 3px solid #ffc107;}
+.info-button{transition: all .3s ease-in-out; color: #fff; background-color: #0dca;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.info-button:hover{background-color: #fff;color: #000;outline: 3px solid #0dca;}
+.dark-button{transition: all .3s ease-in-out; color: #fff; background-color: #333933;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.dark-button:hover{background-color: #fff;color: #000;outline: 3px solid #333933;}
+.orange-button{transition: all .3s ease-in-out; color: #fff; background-color: orange;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.orange-button:hover{background-color: #fff;color: #000;outline: 3px solid orange;}
+.pink-button{transition: all .3s ease-in-out; color: #fff; background-color: pink;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.pink-button:hover{background-color: #fff;color: #000;outline: 3px solid pink;}
+.purple-button{transition: all .3s ease-in-out; color: #fff; background-color: purple;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.purple-button:hover{background-color: #fff;color: #000;outline: 3px solid purple;}
+.brown-button{transition: all .3s ease-in-out; color: #fff; background-color: brown;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.brown-button:hover{background-color: #fff;color: #000;outline: 3px solid brown;}
+.brown-button{transition: all .3s ease-in-out; color: #fff; background-color: brown;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.brown-button:hover{background-color: #fff;color: #000;outline: 3px solid brown;}
+.tan-button{transition: all .3s ease-in-out; color: #fff; background-color: tan;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.tan-button:hover{background-color: #fff;color: #000;outline: 3px solid tan;}
+.gold-button{transition: all .3s ease-in-out; color: #fff; background-color: gold;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.gold-button:hover{background-color: #fff;color: #000;outline: 3px solid gold;}
+.gray-button{transition: all .3s ease-in-out; color: #fff; background-color: gray;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.gray-button:hover{background-color: #fff;color: #000;outline: 3px solid gray;}
+.green-button{transition: all .3s ease-in-out; color: #fff; background-color: green;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.green-button:hover{background-color: #fff;color: #000;outline: 3px solid green;}
+.greenyellow-button{transition: all .3s ease-in-out; color: #fff; background-color: greenyellow;border: none;width: 80px;height: 25px;border-radius: 4px;}
+.greenyellow-button:hover{background-color: #fff;color: #000;outline: 3px solid greenyellow;}
+.light-button{transition: all .3s ease-in-out; color: #000; background-color: #f8f9fa;border: 1px solid #ccc;width: 80px;height: 25px;border-radius: 4px;}
+.light-button:hover{outline: 3px solid #f8f9fa;}
+.radius-button{color:#fff;transition: all .3s ease-in-out;background-color: #e60;border: none;width: 80px;height: 25px;border-radius: 24px 4px;}
+.radius-button:hover{outline: 3px solid rgb(250, 182, 130);}
+.active-button{transition: all .3s ease-in-out; border-radius: 0 66px 66px 0; border: none;color: #fff;background-color: rgb(115, 232, 236);width: 80px;height: 25px;}
+.active-button:hover{outline: 3px solid rgb(216, 242, 243);}
+/*container*/
+.container{display: block; max-width: 100%!important;}
+.container {display: block;max-width: 100% !important;}
+/* Mobile */
+@media only screen and (max-width: 767px) {
+  .container {width: auto !important;margin-left: 1em !important;margin-right: 1em !important;
+  }
+  .grid.container {
+    width: auto !important;
+  }
+  .relaxed.grid.container {
+    width: auto !important;
+  }
+  .very.relaxed.grid.container {
+    width: auto !important;
+  }
+}
+/* Tablet */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    width: 723px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  .grid.container {
+    width: calc( 723px  +  2rem ) !important;
+  }
+  .relaxed.grid.container {
+    width: calc( 723px  +  3rem ) !important;
+  }
+  .very.relaxed.grid.container {
+    width: calc( 723px  +  5rem ) !important;
+  }
+}
+/* Small */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .container {
+    width: 933px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  .grid.container {
+    width: calc( 933px  +  2rem ) !important;
+  }
+  .relaxed.grid.container {
+    width: calc( 933px  +  3rem ) !important;
+  }
+  .very.relaxed.grid.container {
+    width: calc( 933px  +  5rem ) !important;
+  }
+}
+/* Large */
+@media only screen and (min-width: 1200px) {
+  .container {
+    width: 1127px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  .grid.container {
+    width: calc( 1127px  +  2rem ) !important;
+  }
+  .relaxed.grid.container {
+    width: calc( 1127px  +  3rem ) !important;
+  }
+  .very.relaxed.grid.container {
+    width: calc( 1127px  +  5rem ) !important;
+  }
+}
+/*text & fonts*/
+.txt-100{font-weight: 100;}
+.txt-200{font-weight: 200;}
+.txt-300{font-weight: 300;}
+.txt-400{font-weight: 400;}
+.txt-500{font-weight: 500;}
+.txt-600{font-weight: 600;}
+.txt-700{font-weight: 700;}
+.txt-800{font-weight: 800;}
+.txt-900{font-weight: 900;}
+.txt-bold{font-weight: bold;}
+.txt-bolder{font-weight: bolder;}
+.txt-lighter{font-weight: lighter;}
+.txt-normal{font-weight: normal;}
+.fnt-size-large{font-size: large;}
+.fnt-size-larger{font-size: larger;}
+.fnt-size-medium{font-size: medium;}
+.fnt-size-small{font-size: small;}
+.fnt-size-smaller{font-size: smaller;}
+.fnt-size-x-large{font-size: x-large;}
+.fnt-size-x-small{font-size: x-small;}
+.fnt-size-xx-large{font-size: xx-large;}
+.fnt-size-xx-small{font-size: xx-small;}
+.fnt-size-0{font-size: 0%;}
+.fnt-size-5{font-size: 5%;}
+.fnt-size-10{font-size: 10%;}
+.fnt-size-20{font-size: 20%;}
+.fnt-size-30{font-size: 30%;}
+.fnt-size-40{font-size: 40%;}
+.fnt-size-50{font-size: 50%;}
+.fnt-size-60{font-size: 60%;}
+.fnt-size-70{font-size: 70%;}
+.fnt-size-80{font-size: 80%;}
+.fnt-size-90{font-size: 90%;}
+.fnt-size-90{font-size: 90%;}
+/*hidden & show*/
+.hidden{display: none;}
+.show{display: block;}
+/*input*/
+.input{outline: none; border:1px solid #aaa; border-radius: 2px;}
+.input-error{outline: none; border:1px solid #ec380b; border-radius: 2px;}
+.input-error:hover{outline: 2px solid #f5937b;}
+.input-positive{transition: all .3s ease-in-out; outline: none; border:1px solid #21ba45; border-radius: 2px;}
+.input-positive:hover{outline: 2px solid rgb(131, 247, 131);}
+.input-circular{transition: all .3s ease-in-out;outline: none; border:1px solid #ddd; border-radius: 20px;}
+.input-circular:hover{outline: 2px solid #ccc;}
+.input-radius{transition: all .3s ease-in-out;outline: none; border:1px solid #ddd; border-radius: 24px 4px;}
+.input-radius:hover{outline: 2px solid #ccc;}
+.active-input{border-radius: 0 66px 66px 0;}
+/*linear-gradient*/
+.peachy{background: linear-gradient(to bottom right, #ff48b6,#ff7e6c);}
+.aqua{background: linear-gradient(to bottom right, #38fbef,#5baffc);}
+.fire{background: linear-gradient(to bottom right, #ff6c87,#fc7246);}
+.lemon{background: linear-gradient(to bottom right, #fbcd38,#fcbb5b);}
+.pastl{background: linear-gradient(to bottom right, #dd95f7 0%,#9aadf9 50%,#7fc9d9 100%);}
+.dark{background: linear-gradient(to bottom right, #333,#121212);}
+.snow{background: linear-gradient(to bottom right, #ffdef2,#e6f0ff);}
+.green{background: linear-gradient(to bottom right, #87cf8e,#b8cf87);}
+/*justify-content*/
+.justify-content-satrt{display: flex; justify-content: flex-start;}
+.justify-content-end{display: flex; justify-content: flex-end;}
+.justify-content-center{display: flex; justify-content: center;}
+.justify-content-sa{display: flex; justify-content: space-around;}
+.justify-content-sb{display: flex; justify-content: space-between;}
+.justify-content-se{display: flex; justify-content: space-evenly;}
+/*Colors*/
+.color-white{color: #fff;}
+.color-black{color: #000;}
+.color-blue{color: rgb(7, 110, 245);}
+.color-green{color: rgb(44, 214, 10);}
+.color-pink{color: rgb(212, 36, 204);}
+.color-purple{color: purple;}
+.color-orange{color: orange;}
+.color-tan{color: tan;}
+.color-teal{color: teal;}
+.color-olive{color: olive;}
+.color-oldlace{color: oldlace;}
+.color-olivedrab{color: olivedrab;}
+.color-orangered{color: orangered;}
+.color-orchid{color: orchid;}
+.color-aliceblue{color: aliceblue;}
+.color-antiquewhite{color: antiquewhite;}
+.color-aqua{color: aqua;}
+.color-aquamarine{color: aquamarine;}
+.color-azure{color: azure;}
+.color-brown{color: brown;}
+.color-cadetblue{color: cadetblue;}
+.color-chartreuse{color: chartreuse;}
+.color-coral{color: coral;}
+.color-cornsilk{color: cornsilk;}
+.color-crimson{color:crimson;}
+.color-cyan{color: cyan;}
+.color-gray{color: gray;}
+.color-gold{color: gold;}
+.color-rebeccapurple{color: rebeccapurple;}
+.color-red{color: red;}
+.color-mediumseagreen{color: mediumseagreen;}
+.color-navy{color: navy;}
+.color-magenta{color: magenta;}
+.color-yellow{color: yellow;}
+.color-yellowgreen{color: yellowgreen;}
+.color-khaki{color: khaki;}
+.color-salmon{color: salmon;}
+.color-hotpink{color: hotpink;}
+.color-honeydew{color: honeydew;}
+.color-navajowhite{color: navajowhite;}
+.color-darkcyan{color: darkcyan;}
+.color-darkred{color: darkred;}
+.color-lawngreen{color: lawngreen;}
+.color-tomato{color: tomato;}
+.color-violet{color: violet;}
